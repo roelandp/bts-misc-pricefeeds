@@ -171,6 +171,7 @@ if len(feeds) > 0:
         settlement_price = pricempa,
         cer = pricempa * (1/1.2),
         mcr = 175,
+        mssr = 140,
         account="roelandp",
 
     ))
